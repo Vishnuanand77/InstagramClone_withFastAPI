@@ -1,0 +1,5 @@
+.specstory
+.cursorindexingignore
+.venv
+__pycache__
+.env
